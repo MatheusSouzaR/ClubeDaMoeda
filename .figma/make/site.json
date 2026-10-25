@@ -1,0 +1,10 @@
+{
+  "description": "Ensina crianças de até 12 anos a organizar mesada, acompanhar gastos e desenvolver hábitos financeiros saudáveis com atividades simples e divertidas.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
